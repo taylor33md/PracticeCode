@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+	<Parameter name="D400SECRET" value="r3gression" />
+	<Parameter name="D400ADMIN" value="D400Admin" />
+
+	</TestRunParameters>
+
+</RunSettings>

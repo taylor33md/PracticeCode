@@ -1,0 +1,16 @@
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\Fishing Pond.exe
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\Fishing Pond.deps.json
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\Fishing Pond.runtimeconfig.json
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\Fishing Pond.runtimeconfig.dev.json
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\Fishing Pond.dll
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\Fishing Pond.pdb
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\obj\Debug\netcoreapp3.1\Fishing Pond.AssemblyInfoInputs.cache
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\obj\Debug\netcoreapp3.1\Fishing Pond.AssemblyInfo.cs
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\obj\Debug\netcoreapp3.1\Fishing Pond.dll
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\obj\Debug\netcoreapp3.1\Fishing Pond.pdb
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\obj\Debug\netcoreapp3.1\Fishing Pond.csprojAssemblyReference.cache
+C:\Users\mtaylor\source\repos\Unit Testing\Unit Testing\obj\Debug\netcoreapp3.1\Fishing Pond.csproj.CopyComplete
